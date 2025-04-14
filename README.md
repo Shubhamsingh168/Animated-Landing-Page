@@ -1,4 +1,4 @@
-Link:- https://animatedlanding-page.netlify.app/
+Link:- https://dynamic-javascript-project.netlify.app/
 
 This project features a visually captivating animated landing page built with HTML, CSS, and JavaScript. The design incorporates smooth transitions, a dynamic progress bar, and an eye-catching layout that is perfect for showcasing portfolios, products, or personal websites.
 
